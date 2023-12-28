@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sliit.MTIT.Assignment3.Patient.props" />
+</Project>
